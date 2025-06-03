@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/66a54caf09644a52aab1adab9f68c821/artifacts
+deleted_time: 1748956249440
+end_time: 1748955894690
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 66a54caf09644a52aab1adab9f68c821
+run_name: able-robin-30
+run_uuid: 66a54caf09644a52aab1adab9f68c821
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748955892370
+status: 4
+tags: []
+user_id: harsh

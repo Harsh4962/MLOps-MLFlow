@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/ef71fd88fec245d0a53c62aed6f90a8d/artifacts
+deleted_time: 1748956249440
+end_time: 1748956024722
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: ef71fd88fec245d0a53c62aed6f90a8d
+run_name: bustling-hen-76
+run_uuid: ef71fd88fec245d0a53c62aed6f90a8d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748956024462
+status: 4
+tags: []
+user_id: harsh

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/786346764567141333/b0e6ca6f9c30411da19753ae58e759cd/artifacts
+end_time: 1748956674439
+entry_point_name: ''
+experiment_id: '786346764567141333'
+lifecycle_stage: active
+run_id: b0e6ca6f9c30411da19753ae58e759cd
+run_name: colorful-mouse-702
+run_uuid: b0e6ca6f9c30411da19753ae58e759cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748956674053
+status: 3
+tags: []
+user_id: harsh

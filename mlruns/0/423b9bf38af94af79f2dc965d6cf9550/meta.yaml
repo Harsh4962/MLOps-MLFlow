@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/423b9bf38af94af79f2dc965d6cf9550/artifacts
+end_time: 1748956224203
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 423b9bf38af94af79f2dc965d6cf9550
+run_name: luxuriant-lamb-943
+run_uuid: 423b9bf38af94af79f2dc965d6cf9550
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748956223833
+status: 3
+tags: []
+user_id: harsh

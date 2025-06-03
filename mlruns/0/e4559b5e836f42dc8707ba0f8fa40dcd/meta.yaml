@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/e4559b5e836f42dc8707ba0f8fa40dcd/artifacts
+end_time: 1748956532246
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4559b5e836f42dc8707ba0f8fa40dcd
+run_name: judicious-shrew-293
+run_uuid: e4559b5e836f42dc8707ba0f8fa40dcd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748956531822
+status: 3
+tags: []
+user_id: harsh

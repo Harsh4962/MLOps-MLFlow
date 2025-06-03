@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/786346764567141333/e3391f26737946e3a5b98cda29fbe1d3/artifacts
+end_time: 1748960524000
+entry_point_name: ''
+experiment_id: '786346764567141333'
+lifecycle_stage: active
+run_id: e3391f26737946e3a5b98cda29fbe1d3
+run_name: unique-hen-493
+run_uuid: e3391f26737946e3a5b98cda29fbe1d3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748960518906
+status: 3
+tags: []
+user_id: harsh

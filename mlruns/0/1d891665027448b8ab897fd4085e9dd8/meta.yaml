@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1d891665027448b8ab897fd4085e9dd8/artifacts
+end_time: 1748955222992
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d891665027448b8ab897fd4085e9dd8
+run_name: trusting-conch-159
+run_uuid: 1d891665027448b8ab897fd4085e9dd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748955222880
+status: 3
+tags: []
+user_id: harsh
