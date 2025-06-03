@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/a22f2c8b3a9c402488047a65dfbf871e/artifacts
+end_time: 1748962397835
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: a22f2c8b3a9c402488047a65dfbf871e
+run_name: flawless-ant-139
+run_uuid: a22f2c8b3a9c402488047a65dfbf871e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962397699
+status: 3
+tags: []
+user_id: harsh

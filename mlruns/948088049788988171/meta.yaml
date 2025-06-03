@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171
+creation_time: 1748961988240
+experiment_id: '948088049788988171'
+last_update_time: 1748961988240
+lifecycle_stage: active
+name: breast-cancer-rf-hp

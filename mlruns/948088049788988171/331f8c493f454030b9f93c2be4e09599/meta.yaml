@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/331f8c493f454030b9f93c2be4e09599/artifacts
+end_time: 1748961998908
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: 331f8c493f454030b9f93c2be4e09599
+run_name: handsome-stork-698
+run_uuid: 331f8c493f454030b9f93c2be4e09599
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748961988468
+status: 3
+tags: []
+user_id: harsh

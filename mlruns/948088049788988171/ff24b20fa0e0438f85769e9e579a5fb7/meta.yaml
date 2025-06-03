@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/ff24b20fa0e0438f85769e9e579a5fb7/artifacts
+end_time: 1748962398146
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: ff24b20fa0e0438f85769e9e579a5fb7
+run_name: indecisive-fowl-451
+run_uuid: ff24b20fa0e0438f85769e9e579a5fb7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962398075
+status: 3
+tags: []
+user_id: harsh

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/3de92aae75ff4ba8a81af6a072a29b2d/artifacts
+end_time: 1748962398432
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: 3de92aae75ff4ba8a81af6a072a29b2d
+run_name: valuable-cod-651
+run_uuid: 3de92aae75ff4ba8a81af6a072a29b2d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962398357
+status: 3
+tags: []
+user_id: harsh

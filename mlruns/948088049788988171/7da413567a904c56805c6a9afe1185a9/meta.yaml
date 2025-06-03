@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/7da413567a904c56805c6a9afe1185a9/artifacts
+end_time: 1748962404137
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: 7da413567a904c56805c6a9afe1185a9
+run_name: victorious-frog-583
+run_uuid: 7da413567a904c56805c6a9afe1185a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962392444
+status: 3
+tags: []
+user_id: harsh

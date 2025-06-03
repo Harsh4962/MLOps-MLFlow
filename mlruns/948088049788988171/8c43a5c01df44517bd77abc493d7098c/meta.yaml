@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/8c43a5c01df44517bd77abc493d7098c/artifacts
+end_time: 1748962398524
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: 8c43a5c01df44517bd77abc493d7098c
+run_name: mysterious-shad-780
+run_uuid: 8c43a5c01df44517bd77abc493d7098c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962398432
+status: 3
+tags: []
+user_id: harsh

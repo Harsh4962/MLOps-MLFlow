@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/b15bf42d34cc4e5ca03bd2c384de762d/artifacts
+deleted_time: 1748962851956
+end_time: 1748962353759
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: deleted
+run_id: b15bf42d34cc4e5ca03bd2c384de762d
+run_name: zealous-gnat-254
+run_uuid: b15bf42d34cc4e5ca03bd2c384de762d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962348166
+status: 4
+tags: []
+user_id: harsh

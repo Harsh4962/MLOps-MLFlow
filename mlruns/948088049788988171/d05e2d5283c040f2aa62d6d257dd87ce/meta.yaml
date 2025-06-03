@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/d05e2d5283c040f2aa62d6d257dd87ce/artifacts
+end_time: 1748962397915
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: d05e2d5283c040f2aa62d6d257dd87ce
+run_name: exultant-wolf-179
+run_uuid: d05e2d5283c040f2aa62d6d257dd87ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962397842
+status: 3
+tags: []
+user_id: harsh

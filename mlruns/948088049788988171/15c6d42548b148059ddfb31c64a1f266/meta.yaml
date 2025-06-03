@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/15c6d42548b148059ddfb31c64a1f266/artifacts
+end_time: 1748962398614
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: 15c6d42548b148059ddfb31c64a1f266
+run_name: bouncy-fawn-43
+run_uuid: 15c6d42548b148059ddfb31c64a1f266
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962398532
+status: 3
+tags: []
+user_id: harsh

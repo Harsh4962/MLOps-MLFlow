@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/harsh/OneDrive/Desktop/MLOps-Learn/MLOps-MLFlow/mlruns/948088049788988171/30eea6ee1517478dab5759e9685894db/artifacts
+end_time: 1748962398775
+entry_point_name: ''
+experiment_id: '948088049788988171'
+lifecycle_stage: active
+run_id: 30eea6ee1517478dab5759e9685894db
+run_name: vaunted-foal-798
+run_uuid: 30eea6ee1517478dab5759e9685894db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748962398686
+status: 3
+tags: []
+user_id: harsh
